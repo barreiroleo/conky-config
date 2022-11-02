@@ -1,0 +1,10 @@
+---
+base: lua51
+
+globals:
+  conky:
+    property: read-only
+  conky_config:
+    property: read-only
+  conky_parse:
+    any: true
